@@ -1,2 +1,2 @@
 # first-me
-This is a repository.
+This is a first-me repository for ASLDReVaS' video.
